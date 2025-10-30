@@ -304,4 +304,5 @@ python create_ani_heatmap.py
 ```
 
 This will produce the final image file named `ANI_heatmap_124.png`.
-![ANI Heatmap (124 Representative Genomes)](./ANI_heatmap_124.png)
+<img width="673" height="606" alt="image" src="https://github.com/user-attachments/assets/9bb7e742-5f41-4983-96a3-e90126223aa9" />
+
